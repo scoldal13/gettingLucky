@@ -2,7 +2,7 @@
 # lucky.py opens multiple google search results
 
 
-# debug logging practice 
+
 import requests, sys, webbrowser, bs4
 
 
